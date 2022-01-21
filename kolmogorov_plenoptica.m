@@ -1,6 +1,5 @@
 function atmospherePhase = kolmogorov_plenoptica (dim, r0, mirrorDiameter, wavelength, sizeMult)
 %{
-This function implements atmospheric turbulence volume creation based on data provided by object "atm".
 The wave front phase generation is based in:
 LANE, R. G., et al. Simulation of a Kolmogorov phase screen. Waves in random media, 1992, vol. 2, no 3, p. 209-224.
 
@@ -14,7 +13,7 @@ Outputs:
     atmospherePhase : generated phase of size = (dim x sizeMult) x (dim x sizeMult) in meters
 
 
-Adapted from Juan M. Trujillo-Sevilla. Nuevas técnicas de adquisición de light field y fase de frente de onda. PhD Thesis. http://riull.ull.es/xmlui/handle/915/7023
+Adapted from Juan M. Trujillo-Sevilla. Nuevas tÃ©cnicas de adquisiciÃ³n de light field y fase de frente de onda. PhD Thesis. http://riull.ull.es/xmlui/handle/915/7023
 
 Nov, 2021. sergio.bonaque.gonzalez@gmail.com
 %}
