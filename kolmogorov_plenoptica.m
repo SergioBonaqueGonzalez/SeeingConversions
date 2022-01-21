@@ -15,7 +15,7 @@ Outputs:
 
 Adapted from Juan M. Trujillo-Sevilla. Nuevas técnicas de adquisición de light field y fase de frente de onda. PhD Thesis. http://riull.ull.es/xmlui/handle/915/7023
 
-Nov, 2021. sergio.bonaque.gonzalez@gmail.com
+Jan, 2022. sergio.bonaque.gonzalez@gmail.com
 %}
 
 if nargin < 5
