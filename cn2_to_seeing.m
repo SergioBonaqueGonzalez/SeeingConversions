@@ -6,6 +6,8 @@ function seeing = cn2_to_seeing(cn2, wavelength)
         wavelength : in meters
     Outputs:
         seeing angle in arcseconds
+        
+Jan, 2022. sergio.bonaque.gonzalez@gmail.com
 %}
 r0 = cn2_to_r0(cn2,wavelength);
 seeing = r0_to_seeing(r0,wavelength);
