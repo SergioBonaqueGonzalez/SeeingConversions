@@ -9,6 +9,6 @@ angle
         r0: in cm
 From: Hardy, J. W. (1998). Adaptive optics for astronomical telescopes (Vol. 16). Oxford University Press on Demand.
 
-Nov, 2021. sergio.bonaque.gonzalez@gmail.com
+Jan, 2022. sergio.bonaque.gonzalez@gmail.com
 %}
 r0=(0.423*(2*pi/wavelength)^2*cn2)^(-3/5);
