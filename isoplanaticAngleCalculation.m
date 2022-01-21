@@ -11,7 +11,7 @@ It equals the time interval over which the rms-phase distortion at a point due t
 
 Adapted from: M. J. Townson, O. J. D. Farley, G. Orban de Xivry, J. Osborn, and A. P. Reeves, "AOtools: a Python package for adaptive optics modelling and analysis," Opt. Express 27, 31316-31329 (2019)
 
-Nov, 2021. sergio.bonaque.gonzalez@gmail.com
+Jan, 2022. sergio.bonaque.gonzalez@gmail.com
 %}
 Jh = (cn2*(h^(5./3.)));
 isoplanaticAngle = (0.057*wavelength^(6/5)*Jh^(-3/5)*180*3600/pi);
