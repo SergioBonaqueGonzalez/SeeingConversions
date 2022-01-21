@@ -8,7 +8,7 @@ Calculates integrated Cn2 value from Fried parameter (r0) at zenith angle
 
 Adapted from: M. J. Townson, O. J. D. Farley, G. Orban de Xivry, J. Osborn, and A. P. Reeves, "AOtools: a Python package for adaptive optics modelling and analysis," Opt. Express 27, 31316-31329 (2019)
 
-Nov, 2021. sergio.bonaque.gonzalez@gmail.com
+Jan, 2022. sergio.bonaque.gonzalez@gmail.com
 %}
 
 cn2 = r0^(-5/3)/(0.423*(2*pi/wavelength)^2);
