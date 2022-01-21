@@ -10,7 +10,7 @@ function seeing = r0_to_seeing(r0, wavelength)
 
 From: Hardy, J. W. (1998). Adaptive optics for astronomical telescopes (Vol. 16). Oxford University Press on Demand.
 
-Nov, 2021. sergio.bonaque.gonzalez@gmail.com
+Jan, 2022. sergio.bonaque.gonzalez@gmail.com
 %}
 
 seeing = (0.98*wavelength/r0)*180*3600/pi;
