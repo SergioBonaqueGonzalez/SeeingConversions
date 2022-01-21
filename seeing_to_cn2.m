@@ -7,7 +7,7 @@ Calculates the integrated Cn2 value from the seeing
     Outputs:
         cn2 :integrated Cn2 value in m^2/3
 
-Nov, 2021. sergio.bonaque.gonzalez@gmail.com
+Jan, 2022. sergio.bonaque.gonzalez@gmail.com
 %}
 
 r0 = seeing_to_r0(seeing,wavelength);
